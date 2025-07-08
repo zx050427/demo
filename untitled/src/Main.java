@@ -14,5 +14,6 @@ public class Main {
         System.out.println("feature分支修改");
         System.out.println("develop分支修改");
         System.out.println("bug修改");
+        System.out.println("版本1.x");
     }
 }
